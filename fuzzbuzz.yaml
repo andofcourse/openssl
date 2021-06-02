@@ -1,6 +1,6 @@
 
 base:
-  language: c++
+  language: go
   engine: libFuzzer
   docker_image: fuzzbuzzbot/openssl-fixed:latest
   steps:
